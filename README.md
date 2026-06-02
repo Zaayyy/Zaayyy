@@ -67,6 +67,39 @@
 
 ---
 
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zaayyy&theme=tokyonight"/>
+</p>
+
+## 🏆 My Rewards
+
+[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=Zaayyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zaayyy/Zaayyy/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zaayyy/Zaayyy/blob/output/github-snake-light.svg" />
+    <img alt="Snake animation" src="https://github.com/Zaayyy/Zaayyy/blob/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+## 👾 Contribution Game
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaayyy/Zaayyy/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaayyy/Zaayyy/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zaayyy/Zaayyy/output/pacman-contribution-graph.svg">
+</picture>
+</p>
+
+
+
 ### 🤝 Mari Terhubung
 
 <p align="center">
