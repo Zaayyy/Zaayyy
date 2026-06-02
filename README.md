@@ -50,4 +50,39 @@
 </p>
 
 ---
+
+### 🐍 Riwayat Kontribusi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zaayyy/Zaayyy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zaayyy&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zaayyy&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+### 🤝 Mari Terhubung
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcell-sorongan-36070a299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/aceeeelllllll?igsh=MWd0ZXZicnAweTR4Mw%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/690341913756434463" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:soronganmarcell@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 <p align="center"><i>Mari terhubung dan berkolaborasi!</i></p>
