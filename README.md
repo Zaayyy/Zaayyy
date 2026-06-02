@@ -44,8 +44,8 @@
 
 <p align="center">
   <!-- GANTI 'USERNAME_GITHUB_ANDA' DENGAN USERNAME ASLI ANDA -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaayyy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaayyy&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
